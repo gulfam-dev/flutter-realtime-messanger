@@ -1,6 +1,23 @@
 # minimal_chat
 
-A new Flutter project.
+This project is a chat application built with Flutter for a mobile interface and Firebase for backend services.
+
+
+Frontend (Flutter):
+
+User Interface (UI) for login, and chat screens.
+
+Functionality to send and receive chat messages.
+
+
+
+Backend (Firebase):
+
+Firebase Authentication for user login (e.g., email/password).
+
+Firebase Firestore as a NoSQL database to store chat messages and potentially user data.
+
+Realtime functionality using Cloud Firestore to enable live updates when messages are sent or received.
 
 <img width="304" alt="Screenshot 2024-03-24 at 6 15 37 PM" src="https://github.com/gulfam-dev/chat_flutter_app/assets/146335824/057327d7-8251-438d-ad23-753ae9734b61">
 <img width="303" alt="Screenshot 2024-03-24 at 6 15 25 PM" src="https://github.com/gulfam-dev/chat_flutter_app/assets/146335824/8dfd3ef8-b0c3-477e-901f-d804082aa1a1">
