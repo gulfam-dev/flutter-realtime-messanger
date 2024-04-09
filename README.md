@@ -1,4 +1,4 @@
-# minimal_chat
+# Realtime Messanger
 
 This project is a chat application built with Flutter for a mobile interface and Firebase for backend services.
 
